@@ -2,11 +2,11 @@
   "apps": [
     {
       "id": "com.example.demo",
-      "name": "示例软件",
+      "name": "壁纸",
       "version": "1.0.0",
-      "size": "12.5 MB",
+      "size": "119.45MB",
       "description": "这是一个示例软件的详细介绍。\n\n功能介绍：\n- 功能一：快速处理数据\n- 功能二：支持多种格式\n- 功能三：界面简洁易用\n\n使用时请注意授予必要权限。",
-      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/demo_icon.png",
+      "iconUrl": "https://raw.githubusercontent.com/ssllffee/ssllffee-app-store/main/icons/demo_icon.png",
       "apkUrl": "sha256:a6ca6d5ce34a1967fe987183076f7cf6f3b67a44fe720d69ffbb176173d543cc",
       "category": "工具"
     }
