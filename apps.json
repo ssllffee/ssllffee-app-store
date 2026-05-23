@@ -7,7 +7,7 @@
       "size": "119.45MB",
       "description": "这是一个示例软件的详细介绍。\n\n功能介绍：\n- 功能一：快速处理数据\n- 功能二：支持多种格式\n- 功能三：界面简洁易用\n\n使用时请注意授予必要权限。",
       "iconUrl": "https://raw.githubusercontent.com/ssllffee/ssllffee-app-store/main/icons/demo_icon.png",
-      "apkUrl": "https://github.com/ssllffee/ssllffee-app-store/releases/download/v1.0/base.1.apk",
+      "apkUrl": "https://github.com/ssllffee/ssllffee-app-store/releases/download/1/base.1.apk",
       "category": "工具"
     }
   ]
